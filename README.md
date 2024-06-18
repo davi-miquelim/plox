@@ -1,5 +1,5 @@
 # LOX interpreter implemented in Python
-This is a simple implementation of the LOX interpreter in Python. The code is based on the book [Crafting Interpreters](http://www.craftinginterpreters.com/).
+This is a simple implementation of the LOX interpreter in Python.
 
 ## Running the code
 To run the code, simply run the following command in the terminal:
